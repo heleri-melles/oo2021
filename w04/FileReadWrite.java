@@ -51,7 +51,8 @@ public class FileReadWrite {
                 " and year is " + lineData[3]
             );
         }
-        
+        pw.close();
+        scanner.close();
          //Loete sisse nr failist ja arvutate summa
          // ja trükkida summa uude faili
     }

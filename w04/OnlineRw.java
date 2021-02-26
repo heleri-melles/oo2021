@@ -36,6 +36,8 @@ public class OnlineRw{
   }
 
   public static double average(String[] input){
-    return sum(input) / input.length;
+    int average = 0;
+    average = sum(input) / input.length; 
+    return average;
   }
 }
