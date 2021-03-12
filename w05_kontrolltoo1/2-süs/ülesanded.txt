@@ -1,0 +1,21 @@
+A-tähed tekstis
+
+* Loe programmi abil kokku, kui palju on tekstifailis a-tähti (nii suuri kui väikeseid) [done]
+* Leia, kui palju oli a-tähti igas sõnas, sõnades keskmiselt, suhtarvuna tähtede üldarvu
+* Loe kokku, mitu sõna oli ühe, kahe, kolme jne a-tähega. Koosta tabel, kus ridadeks tähtede
+    arv sõnas ning veergudeks a-tähtede arv. Lahtris näidatakse, mitu vastavat sõna oli tekstis.
+
+ Hulknurk
+
+* Koosta klass, milles on üks massiiv kolmnurga x-koordinaatide hoidmiseks ning teine massiiv
+    y-koordinaatide hoidmiseks. Koosta klassist kaks eksemplari, määra algväärtused ning trüki andmed välja.
+* Lisa klassile käsklus kontrollimaks, kas kolmnurk on (ligikaudu) võrdkülgne
+* Ehita klass ümber hulknurga tarbeks. Kontrolli, kas punktid on keskkohast ligikaudu samal kaugusel ning 
+    küljed on ligikaudu sama pikad. Lubatud veaprotsendi saab ette anda.
+
+Kahendsüsteem
+
+* Teata, kas sisestatud neljakohaline arv koosneb vaid ühtedest ja nullidest.
+* Kui tingimus on tõene, väljasta selle kahendsüsteemi arvu väärtus kümnendsüsteemis.
+* Võrreldes eelmisega võib sisestatud kahendsüsteemi arv olla kuni kümnekohaline.
+    Eraldi kuvatase välja, millisele väärtusele iga "üks" selles arvus vastab. 
